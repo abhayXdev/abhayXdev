@@ -48,10 +48,21 @@
 
 <div align="center">
 
-| Project | Description | Live |
-|---------|-------------|------|
-| 🎯 **[TalentDash](https://github.com/abhayXdev/TalentDash)** | Career insights and salary intelligence platform for Indian professionals. | [talentdashindia.vercel.app](https://talentdashindia.vercel.app) |
-| 🎓 **[CampusWay](https://github.com/abhayXdev/college-discovery)** | Platform to discover, compare, and explore colleges across India. | [campusway-dev.vercel.app](https://campusway-dev.vercel.app) |
+  <a href="https://github.com/abhayXdev/TalentDash">
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=abhayXdev&repo=TalentDash&theme=default&bg_color=ffffff&hide_border=false" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=abhayXdev&repo=TalentDash&theme=tokyonight&bg_color=0d1b2a&hide_border=true&title_color=2176ae" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhayXdev&repo=TalentDash&theme=tokyonight&bg_color=0d1b2a&hide_border=true&title_color=2176ae" alt="TalentDash"/>
+    </picture>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/abhayXdev/college-discovery">
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=abhayXdev&repo=college-discovery&theme=default&bg_color=ffffff&hide_border=false" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=abhayXdev&repo=college-discovery&theme=tokyonight&bg_color=0d1b2a&hide_border=true&title_color=2176ae" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhayXdev&repo=college-discovery&theme=tokyonight&bg_color=0d1b2a&hide_border=true&title_color=2176ae" alt="CampusWay"/>
+    </picture>
+  </a>
 
 </div>
 
