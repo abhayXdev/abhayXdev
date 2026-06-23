@@ -6,6 +6,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2176AE&center=true&vCenter=true&multiline=false&width=700&height=60&lines=Hey+there!+I'm+Abhay+Paul+%F0%9F%91%8B;Full-Stack+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Next.js+%7C+TypeScript+%7C+Prisma+%7C+PostgreSQL;Building+products+and+solving+problems+%F0%9F%9A%80;Code+%E2%80%A2+Build+%E2%80%A2+Learn+%E2%80%A2+Repeat)](https://git.io/typing-svg)
 
+<br>
+<img src="https://img.shields.io/github/last-commit/abhayXdev/abhayXdev?style=for-the-badge&logo=github&color=2176ae&labelColor=0d1b2a&label=Profile%20Last%20Updated" alt="Last Active"/>
+
 </div>
 
 <img src="./assets/animated-divider.svg" width="100%">
