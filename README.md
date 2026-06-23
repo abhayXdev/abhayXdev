@@ -1,10 +1,10 @@
 <!-- Header Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b4b82,100:2176ae&height=200&section=header&text=Abhay%20Paul&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Builder&descAlignY=58&descSize=18&descColor=90caf9" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b4b82,100:2176ae&height=200&section=header&text=Abhay%20Paul&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Open%20Source%20Enthusiast%20%7C%20Builder&descAlignY=58&descSize=18&descColor=90caf9" width="100%"/>
 
 <!-- Typing SVG -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2176AE&center=true&vCenter=true&multiline=false&width=650&height=60&lines=Hey+there!+I'm+Abhay+Paul+%F0%9F%91%8B;Full-Stack+Dev+%7C+AI+Intern+%40+TheAISignal;Next.js+%7C+TypeScript+%7C+Prisma+%7C+Neon;Building+TalentDash+%F0%9F%9A%80;prompt+%E2%86%92+build+%E2%86%92+verify+%E2%86%92+ship+%E2%86%94)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2176AE&center=true&vCenter=true&multiline=false&width=700&height=60&lines=Hey+there!+I'm+Abhay+Paul+%F0%9F%91%8B;Full-Stack+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Next.js+%7C+TypeScript+%7C+Prisma+%7C+PostgreSQL;Building+products+and+solving+problems+%F0%9F%9A%80;Code+%E2%80%A2+Build+%E2%80%A2+Learn+%E2%80%A2+Repeat)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,11 +12,11 @@
 
 ## 💫 About Me
 
-🚀 **Full-Stack Developer** | **AI Enthusiast** | **Python Programmer**
-🎓 B.Tech CSE @ Axis Institute of Technology and Management
-🧠 Currently: **AI Software Engineer Intern @ TheAISignal**
-💡 Building real-world projects with **Next.js 15, TypeScript & AI**
-🌱 Always learning and exploring new technologies
+🚀 **Full-Stack Developer** | **Python Programmer** | **Open Source Enthusiast**  
+🎓 B.Tech CSE @ Axis Institute of Technology and Management  
+💡 Building scalable web applications with **Next.js, TypeScript, Prisma, and PostgreSQL**  
+🌱 Passionate about **Backend Development, Databases, and Modern Web Technologies**  
+📌 Always learning, building, and contributing to real-world projects.
 
 ---
 
@@ -40,8 +40,8 @@
 
 | Project | Description | Live |
 |---------|-------------|------|
-| 🎯 **[TalentDash](https://github.com/abhayXdev/TalentDash)** | Career intelligence platform for India — Levels.fyi + AmbitionBox combined | [talentdashindia.vercel.app](https://talentdashindia.vercel.app) |
-| 🎓 **[CampusWay](https://github.com/abhayXdev/college-discovery)** | College discovery & comparison platform for Indian students | [campusway-dev.vercel.app](https://campusway-dev.vercel.app) |
+| 🎯 **[TalentDash](https://github.com/abhayXdev/TalentDash)** | Career insights and salary intelligence platform for Indian professionals. | [talentdashindia.vercel.app](https://talentdashindia.vercel.app) |
+| 🎓 **[CampusWay](https://github.com/abhayXdev/college-discovery)** | Platform to discover, compare, and explore colleges across India. | [campusway-dev.vercel.app](https://campusway-dev.vercel.app) |
 
 </div>
 
