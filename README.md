@@ -1,20 +1,10 @@
 <!-- Header Wave -->
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e0f7fa,50:81d4fa,100:0277bd&height=200&section=header&text=Abhay%20Paul&fontSize=54&fontColor=000000&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Open%20Source%20Enthusiast%20%7C%20Builder&descAlignY=58&descSize=18&descColor=01579b"/>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b4b82,100:2176ae&height=200&section=header&text=Abhay%20Paul&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Open%20Source%20Enthusiast%20%7C%20Builder&descAlignY=58&descSize=18&descColor=90caf9"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b4b82,100:2176ae&height=200&section=header&text=Abhay%20Paul&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Open%20Source%20Enthusiast%20%7C%20Builder&descAlignY=58&descSize=18&descColor=90caf9" width="100%"/>
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b4b82,100:2176ae&height=200&section=header&text=Abhay%20Paul&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Open%20Source%20Enthusiast%20%7C%20Builder&descAlignY=58&descSize=18&descColor=90caf9" width="100%" alt="Header Background"/>
 
 <!-- Typing SVG -->
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0277bd&center=true&vCenter=true&multiline=false&width=700&height=60&lines=Hey+there!+I'm+Abhay+Paul+%F0%9F%91%8B;Full-Stack+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Next.js+%7C+TypeScript+%7C+Prisma+%7C+PostgreSQL;Building+products+and+solving+problems+%F0%9F%9A%80;Code+%E2%80%A2+Build+%E2%80%A2+Learn+%E2%80%A2+Repeat"/>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2176AE&center=true&vCenter=true&multiline=false&width=700&height=60&lines=Hey+there!+I'm+Abhay+Paul+%F0%9F%91%8B;Full-Stack+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Next.js+%7C+TypeScript+%7C+Prisma+%7C+PostgreSQL;Building+products+and+solving+problems+%F0%9F%9A%80;Code+%E2%80%A2+Build+%E2%80%A2+Learn+%E2%80%A2+Repeat"/>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2176AE&center=true&vCenter=true&multiline=false&width=700&height=60&lines=Hey+there!+I'm+Abhay+Paul+%F0%9F%91%8B;Full-Stack+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Next.js+%7C+TypeScript+%7C+Prisma+%7C+PostgreSQL;Building+products+and+solving+problems+%F0%9F%9A%80;Code+%E2%80%A2+Build+%E2%80%A2+Learn+%E2%80%A2+Repeat" alt="Typing SVG"/>
-  </picture>
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2176AE&center=true&vCenter=true&multiline=false&width=700&height=60&lines=Hey+there!+I'm+Abhay+Paul+%F0%9F%91%8B;Full-Stack+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Next.js+%7C+TypeScript+%7C+Prisma+%7C+PostgreSQL;Building+products+and+solving+problems+%F0%9F%9A%80;Code+%E2%80%A2+Build+%E2%80%A2+Learn+%E2%80%A2+Repeat)](https://git.io/typing-svg)
 
 </div>
 
@@ -49,19 +39,11 @@
 <div align="center">
 
   <a href="https://github.com/abhayXdev/TalentDash">
-    <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=abhayXdev&repo=TalentDash&theme=default&bg_color=ffffff&hide_border=false" />
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=abhayXdev&repo=TalentDash&theme=tokyonight&bg_color=0d1b2a&hide_border=true&title_color=2176ae" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhayXdev&repo=TalentDash&theme=tokyonight&bg_color=0d1b2a&hide_border=true&title_color=2176ae" alt="TalentDash"/>
-    </picture>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhayXdev&repo=TalentDash&theme=tokyonight&bg_color=0d1b2a&hide_border=true&title_color=2176ae" alt="TalentDash"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/abhayXdev/college-discovery">
-    <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=abhayXdev&repo=college-discovery&theme=default&bg_color=ffffff&hide_border=false" />
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=abhayXdev&repo=college-discovery&theme=tokyonight&bg_color=0d1b2a&hide_border=true&title_color=2176ae" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhayXdev&repo=college-discovery&theme=tokyonight&bg_color=0d1b2a&hide_border=true&title_color=2176ae" alt="CampusWay"/>
-    </picture>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhayXdev&repo=college-discovery&theme=tokyonight&bg_color=0d1b2a&hide_border=true&title_color=2176ae" alt="CampusWay"/>
   </a>
 
 </div>
@@ -123,26 +105,17 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=abhayXdev&theme=default&hide_border=false&include_all_commits=false&count_private=false&rank_icon=github"/>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=abhayXdev&theme=tokyonight&hide_border=true&bg_color=0d1b2a&title_color=2176ae&icon_color=90caf9&text_color=ffffff&include_all_commits=false&count_private=false&rank_icon=github"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=abhayXdev&theme=tokyonight&hide_border=true&bg_color=0d1b2a&title_color=2176ae&icon_color=90caf9&text_color=ffffff&include_all_commits=false&count_private=false&rank_icon=github" height="180"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=abhayXdev&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=8"/>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=abhayXdev&theme=tokyonight&hide_border=true&bg_color=0d1b2a&title_color=2176ae&text_color=ffffff&include_all_commits=false&count_private=false&layout=compact&langs_count=8"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhayXdev&theme=tokyonight&hide_border=true&bg_color=0d1b2a&title_color=2176ae&text_color=ffffff&include_all_commits=false&count_private=false&layout=compact&langs_count=8" height="180"/>
-</picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=abhayXdev&theme=tokyonight&hide_border=true&bg_color=0d1b2a&title_color=2176ae&icon_color=90caf9&text_color=ffffff&include_all_commits=false&count_private=false&rank_icon=github" height="180" alt="GitHub Stats"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhayXdev&theme=tokyonight&hide_border=true&bg_color=0d1b2a&title_color=2176ae&text_color=ffffff&include_all_commits=false&count_private=false&layout=compact&langs_count=8" height="180" alt="Top Languages"/>
 
 </div>
 
+<br>
+
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=abhayXdev&theme=default&hide_border=false"/>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=abhayXdev&theme=tokyonight&hide_border=true&background=0d1b2a&ring=2176ae&fire=90caf9&currStreakLabel=2176ae&sideLabels=ffffff&dates=aaaaaa"/>
-  <img src="https://streak-stats.demolab.com/?user=abhayXdev&theme=tokyonight&hide_border=true&background=0d1b2a&ring=2176ae&fire=90caf9&currStreakLabel=2176ae&sideLabels=ffffff&dates=aaaaaa" width="68%"/>
-</picture>
+  <img src="https://streak-stats.demolab.com/?user=abhayXdev&theme=tokyonight&hide_border=true&background=0d1b2a&ring=2176ae&fire=90caf9&currStreakLabel=2176ae&sideLabels=ffffff&dates=aaaaaa" width="68%" alt="GitHub Streak"/>
 
 </div>
 
@@ -152,11 +125,7 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default"/>
-  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote"/>
-</picture>
 
 </div>
 
@@ -164,17 +133,9 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=abhayXdev&style=for-the-badge&color=0277bd&label=PROFILE+VIEWS"/>
-  <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=abhayXdev&style=for-the-badge&color=2176ae&label=PROFILE+VIEWS"/>
-  <img src="https://komarev.com/ghpvc/?username=abhayXdev&style=for-the-badge&color=2176ae&label=PROFILE+VIEWS" alt="Profile Views"/>
-</picture>
+[![Profile Views](https://komarev.com/ghpvc/?username=abhayXdev&style=for-the-badge&color=2176ae&label=PROFILE+VIEWS)](https://github.com/abhayXdev)
 
 <!-- Footer Wave -->
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0277bd,50:81d4fa,100:e0f7fa&height=100&section=footer"/>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:2176ae,50:1b4b82,100:0d1b2a&height=100&section=footer"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2176ae,50:1b4b82,100:0d1b2a&height=100&section=footer" width="100%"/>
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2176ae,50:1b4b82,100:0d1b2a&height=100&section=footer" width="100%" alt="Footer Background"/>
 
 </div>
