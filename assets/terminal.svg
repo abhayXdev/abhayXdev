@@ -13,62 +13,79 @@
     .string { fill: #90caf9; }
     .key { fill: #ffbd2e; }
     .bracket { fill: #f8f8f2; }
+    
+    /* 10-second infinite loop */
+    .c1 { animation: typeC1 10s infinite; }
+    .l2 { animation: showL2 10s infinite; }
+    .c3 { animation: typeC3 10s infinite; }
+    .l4 { animation: showL4 10s infinite; }
+    .c9 { animation: typeC9 10s infinite; }
+    .l10 { animation: showL10 10s infinite; }
+
+    @keyframes typeC1 {
+      0% { width: 0; }
+      15%, 100% { width: 660px; }
+    }
+    @keyframes showL2 {
+      0%, 16% { opacity: 0; }
+      17%, 100% { opacity: 1; }
+    }
+    @keyframes typeC3 {
+      0%, 25% { width: 0; }
+      40%, 100% { width: 660px; }
+    }
+    @keyframes showL4 {
+      0%, 41% { opacity: 0; }
+      42%, 100% { opacity: 1; }
+    }
+    @keyframes typeC9 {
+      0%, 55% { width: 0; }
+      70%, 100% { width: 660px; }
+    }
+    @keyframes showL10 {
+      0%, 71% { opacity: 0; }
+      72%, 100% { opacity: 1; }
+    }
   </style>
 
-  <!-- Defs for Typewriting Clips -->
   <defs>
-    <clipPath id="c1">
-      <rect x="15" y="40" width="0" height="25">
-        <animate attributeName="width" values="0;660" dur="1.5s" fill="freeze" />
-      </rect>
-    </clipPath>
-    <clipPath id="c3">
-      <rect x="15" y="105" width="0" height="25">
-        <animate attributeName="width" values="0;660" dur="1.5s" begin="2.5s" fill="freeze" />
-      </rect>
-    </clipPath>
-    <clipPath id="c9">
-      <rect x="15" y="270" width="0" height="25">
-        <animate attributeName="width" values="0;660" dur="1.5s" begin="5.5s" fill="freeze" />
-      </rect>
-    </clipPath>
+    <clipPath id="clip1"><rect x="15" y="40" height="25" class="c1" /></clipPath>
+    <clipPath id="clip3"><rect x="15" y="105" height="25" class="c3" /></clipPath>
+    <clipPath id="clip9"><rect x="15" y="270" height="25" class="c9" /></clipPath>
   </defs>
 
   <!-- Line 1: > abhay.init() -->
-  <g class="text" clip-path="url(#c1)">
+  <g class="text" clip-path="url(#clip1)">
     <text x="20" y="60" class="prompt">></text>
     <text x="40" y="60" class="cmd">abhay.init()</text>
   </g>
   
-  <text x="20" y="85" class="text string" opacity="0">
+  <text x="20" y="85" class="text string l2">
     ["Full-Stack Developer", "Python Programmer"]
-    <animate attributeName="opacity" values="0;1" dur="0.1s" begin="1.7s" fill="freeze" />
   </text>
 
   <!-- Line 3: > abhay.tech_stack() -->
-  <g class="text" clip-path="url(#c3)">
+  <g class="text" clip-path="url(#clip3)">
     <text x="20" y="125" class="prompt">></text>
     <text x="40" y="125" class="cmd">abhay.tech_stack()</text>
   </g>
 
   <!-- Line 4-8: JSON output -->
-  <g opacity="0">
+  <g class="l4">
     <text x="20" y="150" class="text bracket">{</text>
     <text x="40" y="175" class="text"><tspan class="key">"frontend"</tspan><tspan class="bracket">:</tspan> <tspan class="string">["Next.js", "React", "TypeScript"]</tspan><tspan class="bracket">,</tspan></text>
     <text x="40" y="200" class="text"><tspan class="key">"backend"</tspan><tspan class="bracket">:</tspan>  <tspan class="string">["Python", "NodeJS", "FastAPI"]</tspan><tspan class="bracket">,</tspan></text>
     <text x="40" y="225" class="text"><tspan class="key">"database"</tspan><tspan class="bracket">:</tspan> <tspan class="string">["PostgreSQL", "Prisma", "MongoDB"]</tspan></text>
     <text x="20" y="250" class="text bracket">}</text>
-    <animate attributeName="opacity" values="0;1" dur="0.1s" begin="4.2s" fill="freeze" />
   </g>
 
   <!-- Line 9: > abhay.status() -->
-  <g class="text" clip-path="url(#c9)">
+  <g class="text" clip-path="url(#clip9)">
     <text x="20" y="290" class="prompt">></text>
     <text x="40" y="290" class="cmd">abhay.status()</text>
   </g>
   
-  <text x="20" y="315" class="text string" opacity="0">
+  <text x="20" y="315" class="text string l10">
     "Building scalable apps, learning AI &amp; Cloud..."
-    <animate attributeName="opacity" values="0;1" dur="0.1s" begin="7.2s" fill="freeze" />
   </text>
 </svg>
