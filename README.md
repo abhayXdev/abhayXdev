@@ -13,10 +13,12 @@
 ## 💫 About Me
 
 🚀 **Full-Stack Developer** | **Python Programmer** | **Open Source Enthusiast**  
-🎓 B.Tech CSE @ Axis Institute of Technology and Management  
-💡 Building scalable web applications with **Next.js, TypeScript, Prisma, and PostgreSQL**  
-🌱 Passionate about **Backend Development, Databases, and Modern Web Technologies**  
-📌 Always learning, building, and contributing to real-world projects.
+
+| 🎯 Current Focus | 👤 Background & Philosophy |
+| :--- | :--- |
+| 🌱 **Building:** Scalable web apps with Next.js, Prisma, PostgreSQL | 🚀 **Role:** Full-Stack Developer & Python Programmer |
+| 📚 **Learning:** Advanced System Design & Cloud Architecture | 🎓 **Education:** B.Tech CSE @ Axis Institute of Technology |
+| 🤝 **Collaborating:** Open Source Projects & Hackathons | 📌 **Philosophy:** Code, Build, Learn, Repeat. |
 
 <img src="./assets/animated-divider.svg" width="100%">
 
