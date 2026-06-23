@@ -8,7 +8,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="./assets/animated-divider.svg" width="100%">
 
 ## 💫 About Me
 
@@ -18,7 +18,7 @@
 🌱 Passionate about **Backend Development, Databases, and Modern Web Technologies**  
 📌 Always learning, building, and contributing to real-world projects.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="./assets/animated-divider.svg" width="100%">
 
 ## 🌐 Socials
 
@@ -32,7 +32,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="./assets/animated-divider.svg" width="100%">
 
 ## 🚀 Featured Projects
 
@@ -48,7 +48,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="./assets/animated-divider.svg" width="100%">
 
 ## 💻 Tech Stack
 
@@ -58,7 +58,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="./assets/animated-divider.svg" width="100%">
 
 ## 📊 GitHub Stats
 
@@ -78,7 +78,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="./assets/animated-divider.svg" width="100%">
 
 ## ✍️ Random Dev Quote
 
@@ -88,7 +88,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="./assets/animated-divider.svg" width="100%">
 
 <div align="center">
 
