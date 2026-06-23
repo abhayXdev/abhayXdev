@@ -101,11 +101,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=abhayXdev&style=for-the-badge&color=2176ae&label=PROFILE+VIEWS)](https://github.com/abhayXdev)
 
-<br>
 
-<a href="https://info.revolvermaps.com/5q0y7r8q7q9">
-  <img src="https://rf.revolvermaps.com/h/m/a/0/2176ae/01.png?i=5q0y7r8q7q9" width="200" height="200" alt="Global Visitor Map">
-</a>
 
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2176ae,50:1b4b82,100:0d1b2a&height=100&section=footer" width="100%" alt="Footer Background"/>
